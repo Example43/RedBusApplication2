@@ -28,6 +28,7 @@ public class task11 {
 	    	  }    	  
 	      }
 	      System.out.println("maximum length is " +max_length);
+		   System.out.println("is ");
 		  }
 
 	}
